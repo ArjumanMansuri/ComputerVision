@@ -1,2 +1,2 @@
 # ComputerVision
-Computer Vision assignments and project
+Computer Vision assignment and project
